@@ -68,3 +68,5 @@ Off estado_paletizado_externo: Finaliza la tarea desactivando la señal correspo
 # Videos
 
 Video simulación: https://youtu.be/rWDIucTXfMs
+
+Video robot fisico: https://www.youtube.com/watch?v=m3bDK3r0nCM
